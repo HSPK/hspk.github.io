@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in School of Cyberspace Security and Engineering, Wuhan University, 2023-Present
+* B.S. in School of Cyberspace Security and Engineering, Wuhan University, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.1-Present: Research Intern
+  * [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
+  * Duties includes: Developing foundation models for embodied agents, enabling learning from internet-scale data, and generalizing to real-world tasks.
+  * Supervisor: Dr. [Li Zhao](https://www.microsoft.com/en-us/research/people/lizo/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.12-2024.1: Developer Intern
+  * [Beijing Puyuan Technology Co., Ltd.](https://www.puyuan.tech/)
+  * Duties included: Developing LLM-based RAG system, integrating with various LLMs, parsing and processing documents, and building a knowledge base.
+  * Supervisor: Changhao Jiang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+* Latent Action Models
+* Vision-Language-Action Models
+* Software Development
+* Python
+* English
 
 Publications
 ======
@@ -58,7 +53,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
