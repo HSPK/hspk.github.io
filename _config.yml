@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Hangxing Wei / Research Homepage"
+title: "Hangxing Wei / About"
 title_separator: "-"
 name: &name "Hangxing Wei"
 description: &description "Research Intern @ MSRA"
