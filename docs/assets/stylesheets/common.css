@@ -11,6 +11,10 @@
   display: none;
 }
 
+.md-nav--primary > .md-nav__title {
+  display: none;
+}
+
 .md-content__inner {
   max-width: 42rem;
 }

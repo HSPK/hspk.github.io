@@ -36,8 +36,7 @@ nav:
   - Publications: publications.md
   - CV: cv.md
 
-plugins:
-  - search
+plugins: []
 
 markdown_extensions:
   - attr_list
