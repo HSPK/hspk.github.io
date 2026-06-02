@@ -1,3 +1,15 @@
+---
+hide:
+  - toc
+---
+
+<style>
+  .md-sidebar--secondary,
+  .md-nav--primary .md-nav--secondary {
+    display: none;
+  }
+</style>
+
 # Hangxing Wei
 
 <div class="intro">

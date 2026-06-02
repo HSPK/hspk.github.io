@@ -2,6 +2,19 @@
   display: none;
 }
 
+.md-header {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  box-shadow: none;
+}
+
+.md-header__button.md-logo {
+  display: none;
+}
+
+.md-content__inner {
+  max-width: 42rem;
+}
+
 .muted,
 .date {
   color: var(--md-default-fg-color--light);

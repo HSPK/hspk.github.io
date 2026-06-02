@@ -11,14 +11,14 @@ theme:
     - navigation.top
   palette:
     - media: "(prefers-color-scheme)"
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/brightness-auto
         name: Follow system theme
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/brightness-7
