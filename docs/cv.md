@@ -1,7 +1,7 @@
 # CV
 
 <p class="links">
-  <a href="files/cv_hangxing_en.pdf">Download PDF</a>
+  <a href="/files/cv_hangxing_en.pdf">Download PDF</a>
 </p>
 
 ## Education
@@ -126,7 +126,7 @@
   <div class="date">2021</div>
   <div>
     <h3>National Champion, ROBOCON</h3>
-    <p class="muted"><a href="https://news.iqilu.com/shandong/yuanchuang/2021/0731/4921163.shtml">News</a> · <a href="https://github.com/HSPK/camera">Code</a> · <a href="files/robocon2021.pdf">Certificate</a></p>
+    <p class="muted"><a href="https://news.iqilu.com/shandong/yuanchuang/2021/0731/4921163.shtml">News</a> · <a href="https://github.com/HSPK/camera">Code</a> · <a href="/files/robocon2021.pdf">Certificate</a></p>
   </div>
 </div>
 
@@ -134,7 +134,7 @@
   <div class="date">2023</div>
   <div>
     <h3>Third Prize, China Graduate Mathematical Modeling Competition</h3>
-    <p class="muted"><a href="files/NO.A2023300145.pdf">Certificate</a></p>
+    <p class="muted"><a href="/files/NO.A2023300145.pdf">Certificate</a></p>
   </div>
 </div>
 
