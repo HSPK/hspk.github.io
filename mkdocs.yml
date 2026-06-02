@@ -1,0 +1,51 @@
+site_name: Hangxing Wei
+site_description: Research Intern @ MSRA
+site_url: https://hspk.github.io/
+repo_url: https://github.com/hspk/hspk.github.io
+repo_name: hspk/hspk.github.io
+
+theme:
+  name: material
+  language: en
+  favicon: assets/favicon.svg
+  logo: assets/favicon.svg
+  font: false
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: white
+      accent: indigo
+
+nav:
+  - Home: index.md
+  - Publications: publications.md
+  - CV: cv.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hspk
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hangxingwei
+    - icon: fontawesome/solid/graduation-cap
+      link: https://scholar.google.com/citations?user=p-IqwEIAAAAJ
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0005-6418-4392
+
+copyright: Copyright &copy; Hangxing Wei
