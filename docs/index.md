@@ -1,29 +1,41 @@
 # Hangxing Wei
 
-<div class="profile-card">
-  <img class="profile-photo" src="assets/profile.jpeg" alt="Hangxing Wei">
-  <div>
-    <p class="subtitle">Research Intern @ Microsoft Research Asia</p>
-    <p>
+<div class="intro">
+  <img class="portrait" src="assets/profile.jpeg" alt="Hangxing Wei">
+  <div class="intro-text">
+    <p class="lead">
+      I work on foundation models for embodied agents, with interests in robotics,
+      reinforcement learning, and vision-language-action models.
+    </p>
+    <p class="muted">
       Master's student at Wuhan University, supervised by
       <a href="mailto:wu@whu.edu.cn">Prof. Libing Wu</a>.
-      I am currently working as a research intern at
-      <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a>,
-      under the supervision of
+      Research intern at Microsoft Research Asia, working with
       <a href="https://www.microsoft.com/en-us/research/people/lizo/">Dr. Li Zhao</a>.
+    </p>
+    <p class="contact-icons">
+      <a href="mailto:whxway@gmail.com" aria-label="Email" title="Email"><img src="assets/icons/email.svg" alt=""></a>
+      <a href="https://scholar.google.com/citations?user=p-IqwEIAAAAJ" aria-label="Google Scholar" title="Google Scholar"><img src="assets/icons/scholar.svg" alt=""></a>
+      <a href="https://github.com/hspk" aria-label="GitHub" title="GitHub"><img src="assets/icons/github.svg" alt=""></a>
+      <a href="https://www.linkedin.com/in/hangxingwei" aria-label="LinkedIn" title="LinkedIn"><img src="assets/icons/linkedin.svg" alt=""></a>
     </p>
   </div>
 </div>
 
+## Research
+
 I did my undergraduate study at Wuhan University from 2019 to 2023, where I received my Bachelor's degree in Cyber Security.
 
-My research interests include **Robotics**, **Embodied AI**, and **Reinforcement Learning**. I aim to build foundation models for embodied agents, enabling them to learn from internet-scale data and generalize to real-world tasks. I am also interested in the intersection of AI and Cyber Security, especially Agent Security and Prompt Injection.
+My research goal is to build foundation models for embodied agents, enabling them to learn from internet-scale data and generalize to real-world tasks. I am also interested in the intersection of AI and Cyber Security, especially Agent Security and Prompt Injection.
 
-I am still in the early stage of my research career and eager to learn more about these fields. If you have suggestions or resources that may be helpful, please feel free to reach out by [email](mailto:whxway@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hangxingwei).
+## Selected Publication
 
-## Links
-
-- [Google Scholar](https://scholar.google.com/citations?user=p-IqwEIAAAAJ)
-- [ORCID](https://orcid.org/0009-0005-6418-4392)
-- [GitHub](https://github.com/hspk)
-- [LinkedIn](https://www.linkedin.com/in/hangxingwei)
+<div class="entry">
+  <div class="date">ICLR 2026</div>
+  <div>
+    <h3><a href="https://arxiv.org/abs/2507.23682">villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models</a></h3>
+    <p class="muted">International Conference on Learning Representations</p>
+    <p>Latent action modeling for vision-language-action models.</p>
+    <p><a href="https://arxiv.org/pdf/2507.23682">Paper</a> · <a href="https://github.com/microsoft/villa-x">Code</a> · <a href="https://microsoft.github.io/villa-x/">Project Page</a></p>
+  </div>
+</div>

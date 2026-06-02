@@ -1,0 +1,8 @@
+.md-footer-meta {
+  display: none;
+}
+
+.muted,
+.date {
+  color: var(--md-default-fg-color--light);
+}
