@@ -10,9 +10,21 @@
 .entry p { margin: 0.12rem 0; }
 .entry ul { margin: 0.2rem 0 0; }
 .entry li { margin-bottom: 0.08rem; }
-.links { display: flex; flex-wrap: wrap; gap: 0.85rem; margin: 0.8rem 0 1.2rem; }
+.links { display: flex; flex-wrap: wrap; gap: 0.55rem; margin: 0.45rem 0 0.2rem; }
+.links a { display: inline-flex; opacity: 0.68; }
+.links a:hover { opacity: 1; }
+.links img { height: 0.95rem; width: 0.95rem; }
+.project-head { align-items: center; display: flex; gap: 0.75rem; justify-content: space-between; }
+.project-head h3 { margin: 0; }
+.project-links { display: inline-flex; flex: 0 0 auto; gap: 0.5rem; }
+.project-links a { display: inline-flex; opacity: 0.62; }
+.project-links a:hover { opacity: 1; }
+.project-links img { height: 0.9rem; width: 0.9rem; }
+[data-md-color-scheme="slate"] .links img,
+[data-md-color-scheme="slate"] .project-links img { filter: invert(1); }
 .date { font-size: 0.74rem; font-weight: 650; padding-top: 0.1rem; }
 
 @media screen and (max-width: 760px) {
   .entry { grid-template-columns: 1fr; gap: 0.55rem; }
+  .project-head { align-items: flex-start; flex-direction: column; gap: 0.25rem; }
 }

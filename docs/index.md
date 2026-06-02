@@ -34,6 +34,15 @@ hide:
   </div>
 </div>
 
+## News
+
+<div class="entry">
+  <div class="date">2026</div>
+  <div>
+    <p><strong>villa-X</strong> was accepted to ICLR 2026.</p>
+  </div>
+</div>
+
 ## Research
 
 My research focuses on learning action representations for embodied agents. I am particularly interested in how latent action spaces can bridge human videos, robot demonstrations, and vision-language-action policies, so that embodied models can learn from broader data sources and transfer more reliably to new tasks.
@@ -46,7 +55,7 @@ I also work on AI infrastructure for robotics and maintain an interest in agent 
 
 I enjoy turning repeated workflow friction into small, reliable tools. This includes research infrastructure such as [azure_jobs](https://github.com/HSPK/azure_jobs), a lightweight Azure ML job submission CLI, and [expr_tracker](https://github.com/HSPK/expr_tracker), a simple experiment tracking wrapper over local logs and online backends such as W&B.
 
-I also like building personal utilities that make everyday computing more organized and pleasant: [mm](https://github.com/HSPK/mm) for local-first media management, [countdown](https://github.com/HSPK/countdown) for editorial countdowns and todos, and [usm](https://github.com/HSPK/usm) as a registry of useful day-to-day scripts. I see these projects as a way to keep tools close to real use cases: minimal enough to iterate quickly, but polished enough to become part of daily work.
+I also like building personal utilities that make everyday computing more organized and pleasant. See [Open Source](open-source.md) for selected tools.
 
 ## Selected Publication
 

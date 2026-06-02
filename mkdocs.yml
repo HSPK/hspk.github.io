@@ -34,6 +34,7 @@ theme:
 nav:
   - About: index.md
   - Publications: publications.md
+  - Open Source: open-source.md
   - CV: cv.md
 
 plugins: []
