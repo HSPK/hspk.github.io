@@ -16,13 +16,13 @@ hide:
   <img class="portrait" src="assets/profile.jpeg" alt="Hangxing Wei">
   <div class="intro-text">
     <p class="lead">
-      I work on foundation models for embodied agents, with interests in robotics,
-      reinforcement learning, and vision-language-action models.
+      I work on foundation models for embodied agents, focusing on latent action
+      modeling, robotics, reinforcement learning, and vision-language-action models.
     </p>
     <p class="muted">
-      Master's student at Wuhan University, supervised by
-      <a href="mailto:wu@whu.edu.cn">Prof. Libing Wu</a>.
-      Research intern at Microsoft Research Asia, working with
+      I received my M.Eng. and B.Eng. degrees in Cyber Science and Engineering
+      from Wuhan University. I am currently a research intern at Microsoft
+      Research Asia, working with
       <a href="https://www.microsoft.com/en-us/research/people/lizo/">Dr. Li Zhao</a>.
     </p>
     <p class="contact-icons">
@@ -36,9 +36,17 @@ hide:
 
 ## Research
 
-I did my undergraduate study at Wuhan University from 2019 to 2023, where I received my Bachelor's degree in Cyber Security.
+My research focuses on learning action representations for embodied agents. I am particularly interested in how latent action spaces can bridge human videos, robot demonstrations, and vision-language-action policies, so that embodied models can learn from broader data sources and transfer more reliably to new tasks.
 
-My research goal is to build foundation models for embodied agents, enabling them to learn from internet-scale data and generalize to real-world tasks. I am also interested in the intersection of AI and Cyber Security, especially Agent Security and Prompt Injection.
+At a higher level, I aim to build embodied models that can acquire reusable action abstractions, reason over long-horizon behavior, and adapt across embodiments and environments with limited task-specific supervision.
+
+I also work on AI infrastructure for robotics and maintain an interest in agent security, especially prompt injection and secure tool-use behavior.
+
+## Engineering
+
+I enjoy turning repeated workflow friction into small, reliable tools. This includes research infrastructure such as [azure_jobs](https://github.com/HSPK/azure_jobs), a lightweight Azure ML job submission CLI, and [expr_tracker](https://github.com/HSPK/expr_tracker), a simple experiment tracking wrapper over local logs and online backends such as W&B.
+
+I also like building personal utilities that make everyday computing more organized and pleasant: [mm](https://github.com/HSPK/mm) for local-first media management, [countdown](https://github.com/HSPK/countdown) for editorial countdowns and todos, and [usm](https://github.com/HSPK/usm) as a registry of useful day-to-day scripts. I see these projects as a way to keep tools close to real use cases: minimal enough to iterate quickly, but polished enough to become part of daily work.
 
 ## Selected Publication
 
@@ -47,7 +55,7 @@ My research goal is to build foundation models for embodied agents, enabling the
   <div>
     <h3><a href="https://arxiv.org/abs/2507.23682">villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models</a></h3>
     <p class="muted">International Conference on Learning Representations</p>
-    <p>Latent action modeling for vision-language-action models.</p>
+    <p>Grounded latent actions in robot dynamics for VLA policy learning, improving simulation and real-world performance with zero-shot latent planning.</p>
     <p><a href="https://arxiv.org/pdf/2507.23682">Paper</a> · <a href="https://github.com/microsoft/villa-x">Code</a> · <a href="https://microsoft.github.io/villa-x/">Project Page</a></p>
   </div>
 </div>
