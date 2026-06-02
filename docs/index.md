@@ -26,10 +26,10 @@ hide:
       <a href="https://www.microsoft.com/en-us/research/people/lizo/">Dr. Li Zhao</a>.
     </p>
     <p class="contact-icons">
-      <a href="mailto:whxway@gmail.com" aria-label="Email" title="Email"><img src="assets/icons/email.svg" alt=""></a>
-      <a href="https://scholar.google.com/citations?user=p-IqwEIAAAAJ" aria-label="Google Scholar" title="Google Scholar"><img src="assets/icons/scholar.svg" alt=""></a>
-      <a href="https://github.com/hspk" aria-label="GitHub" title="GitHub"><img src="assets/icons/github.svg" alt=""></a>
-      <a href="https://www.linkedin.com/in/hangxingwei" aria-label="LinkedIn" title="LinkedIn"><img src="assets/icons/linkedin.svg" alt=""></a>
+      <a href="mailto:whxway@gmail.com" aria-label="Email" title="Email"><img src="assets/icons/email.svg" width="16" height="16" alt=""></a>
+      <a href="https://scholar.google.com/citations?user=p-IqwEIAAAAJ" aria-label="Google Scholar" title="Google Scholar"><img src="assets/icons/scholar.svg" width="16" height="16" alt=""></a>
+      <a href="https://github.com/hspk" aria-label="GitHub" title="GitHub"><img src="assets/icons/github.svg" width="16" height="16" alt=""></a>
+      <a href="https://www.linkedin.com/in/hangxingwei" aria-label="LinkedIn" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="16" height="16" alt=""></a>
     </p>
   </div>
 </div>
